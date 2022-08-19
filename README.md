@@ -1,6 +1,6 @@
 # Hello there, I'm Ethan Browning
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=eebrowning)](https://github.com/eebrowning/github-readme-stats)
 
 Languages
 --
