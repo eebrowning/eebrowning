@@ -1,11 +1,12 @@
 # Hello there, I'm Ethan Browning
 
-[![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=eebrowning&count_private=true&show_icons=true)](https://github.com/eebrowning/github-readme-stats)
 
 About Me
 --
 - Software Engineer
 - Problem solver and tinkerer
+- 
+[![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=eebrowning&count_private=true&show_icons=true)](https://github.com/eebrowning/github-readme-stats)
 
 
 Languages
