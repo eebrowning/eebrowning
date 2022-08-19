@@ -1,12 +1,6 @@
 # Hello there, I'm Ethan Browning
 
 
-<a href="https://github.com/eebrowning/github-stats">
-<img src="https://github.com/eebrowning/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/eebrowning/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-<img src="https://github.com/eebrowning/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
-<img src="https://github.com/eebrowning/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
-</a>
 
 Languages
 --
