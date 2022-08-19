@@ -1,2 +1,2 @@
-# Greetings--I'm Ethan Browning!
+# Greetings: I'm Ethan Browning!
 Readme, about me!
