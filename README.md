@@ -17,7 +17,7 @@ Languages
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eebrowning)](https://github.com/eebrowning/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eebrowning)
 
 
 
