@@ -6,9 +6,9 @@ About Me
 - Software Engineer
 - Problem solver and tinkerer
 
-<div style='cursor:default'>
+
 [![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=eebrowning&count_private=true&show_icons=true)](https://github.com/eebrowning/github-readme-stats)
-</div>
+
 
 Languages
 --
