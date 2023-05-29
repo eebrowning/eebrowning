@@ -3,7 +3,7 @@
 
 About Me
 --
-- Currently working on my side project Dragon Age: Tarot while on the job search
+- Currently in the midst of a cross-country move: forgive the gaps! Will be back to it by early June!
 - Software Engineer
 - Problem solver and tinkerer
 
