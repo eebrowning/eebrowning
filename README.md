@@ -3,7 +3,6 @@
 
 About Me
 --
-- Currently in the midst of a cross-country move: forgive the gaps! Will be back to it by early June!
 - Software Engineer
 - Problem solver and tinkerer
 
