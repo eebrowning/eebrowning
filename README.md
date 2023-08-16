@@ -3,8 +3,9 @@
 
 About Me
 --
-- Software Engineer
-- Problem solver and tinkerer
+- Software Engineer with a history in customer service and repair: I have always been a problem-solver at heart, and deeply value treating people well. 
+
+- Recently I have been exploring new technologies in addition to the ones mentioned below: primarily Next, TypeORM, and React Query
 
 
 ![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=eebrowning&count_private=true&show_icons=true)
