@@ -8,7 +8,6 @@ About Me
 - Recently I have been exploring new technologies in addition to the ones mentioned below: primarily Next, TypeORM, and React Query
 
 
-![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=eebrowning&count_private=true&show_icons=true)
 
 
 Languages
